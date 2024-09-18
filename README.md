@@ -30,7 +30,6 @@
                 
 </div>
 
-<h5 align="left"> Sorry Not a GitHub sweat💧<br> Who reads this far in a github readme 😁<br></h5>
 
 
 ###
