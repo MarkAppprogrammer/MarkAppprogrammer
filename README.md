@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  <a href="https://www.linkedin.com/in/mark-agib-aab833314/">About me</a></h3>
 
 ###
 
-<p align="left">I'm Mark from EHS<br><br>- 🔭 I’m working as self-employed pen tester<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I write malware <br></br> VS code and VS 2022 lover</p>
+<p align="left">I'm Mark Agib from EHS<br><br>- 🔭 I’m working as self-employed pen tester<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I write malware <br></br> VS code and VS 2022 lover</p>
 
 ###
 
